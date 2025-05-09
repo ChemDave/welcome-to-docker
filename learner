@@ -1,0 +1,2 @@
+cd welcome-to-docker
+docker build -t- docker
